@@ -7,7 +7,7 @@ The repository is aimed to give you a jumpstart in deploying your first ACT Lab.
 - 2 x SPINES (7050SX3-96YC8)
 - 4 x LEAFS (720XP-48ZC2)
 
-![topology](images/Hello_ACT.png)
+![topology](images/x-Hello_ACT.png)
 
 ## Setting up the Tools Server node
 
