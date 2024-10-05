@@ -108,3 +108,19 @@ links:
   - connection:
     - SPINE2:Ethernet4
     - LEAF4:Ethernet50
+    
+##############################
+# Host to Leafs
+##############################
+  - connection:
+    - LEAF1:Ethernet1
+    - HOST1:Ethernet1
+  - connection:
+    - LEAF2:Ethernet2
+    - HOST1:Ethernet2
+  - connection:
+    - LEAF3:Ethernet1
+    - HOST2:Ethernet1
+  - connection:
+    - LEAF4:Ethernet2
+    - HOST2:Ethernet2
