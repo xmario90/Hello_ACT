@@ -6,6 +6,7 @@ The repository is aimed to give you a jumpstart in deploying your first ACT Lab.
 
 - 2 x SPINES (7050SX3-96YC8)
 - 4 x LEAFS (720XP-48ZC2)
+- 2 x Hosts
 
 ![topology](images/Hello-ACT-3.png)
 
