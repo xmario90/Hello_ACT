@@ -45,7 +45,7 @@ make build
 
 ``` bash
 # Deploy configs to switches via eAPI
-make deploy-eapi
+make deploy
 ```
 
 ``` bash
