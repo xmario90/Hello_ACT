@@ -39,7 +39,7 @@ mgmt_interface: Management1
 mgmt_interface_vrf: default
 
 ip_name_servers:
-  - ip_address: 8.8.8.8
+  - ip_address: 8.8.4.4
     vrf: default
 
 # NTP Servers IP or DNS name, first NTP server will be preferred, and sourced from Management VRF

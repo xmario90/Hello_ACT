@@ -74,12 +74,12 @@ interface Management1
 
 | Name Server | VRF | Priority |
 | ----------- | --- | -------- |
-| 8.8.8.8 | default | - |
+| 8.8.4.4 | default | - |
 
 #### IP Name Servers Device Configuration
 
 ```eos
-ip name-server vrf default 8.8.8.8
+ip name-server vrf default 8.8.4.4
 ```
 
 ### NTP
